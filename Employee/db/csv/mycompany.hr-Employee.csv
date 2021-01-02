@@ -1,0 +1,4 @@
+emp_id;emp_name;designation;salary;date_of_joining;work_location;department_name
+1;Rohan;Developer;25000;2019-10-10;Pune;Engineering
+2;Mohan;Manager;50000;2019-10-10;Mumbai;Engineering
+3;Sohan;Sales Rep;48000;2019-10-10;Hyderabad;Sales
